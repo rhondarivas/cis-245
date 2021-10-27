@@ -1,4 +1,4 @@
-# Title: Weather Aoo CIS-245 Final Project
+# Title: Weather App CIS-245 Final Project
 # Author: Rhonda Rivas/Bellevue University base from CIS-245 week 9
 # Date: 10-19-2021
 # Description:  Your program must prompt the user for their city or zip code and request weather forecast data from
